@@ -1,0 +1,18 @@
+{
+    "economic_reward": {
+        "feature": "MonthlyIncome",
+        "scenario": "Volunteering",
+        "action": "volunteer",
+        "policy": "economic",
+        "inequality_type": "reward",
+        "feedback": "Yesterday you and another volunteer participated in a volunteer service. In the end, the other person received the corresponding allowance, while you received no compensation or recognition."
+    },
+    "enforce_burden": {
+        "feature": "MonthlyIncome",
+        "scenario": "Donating",
+        "action": "donate",
+        "policy": "enforce",
+        "inequality_type": "burden",
+        "feedback": "Yesterday you are asked to donate ¥1000. Your monthly income is ¥9,215, while others have a much higher income than you. The donation request does not consider differences in financial ability."
+    }
+}

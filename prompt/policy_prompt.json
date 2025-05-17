@@ -1,0 +1,38 @@
+{
+    "Volunteering": {
+        "moral": "Actively participating in community volunteer work reflects a sense of social responsibility and care for others—an admirable civic virtue we should all strive to uphold.",
+        "social": "You discover that many friends have already signed up, sharing their participation on social media and receiving positive feedback, which motivates you to join in.",
+        "enforce": "The community requires each resident to participate in community volunteering event. Non-participation may result in a formal notice or fine.",
+        "economic": "Participants will receive a 100-yuan stipend or an equivalent-value shopping voucher for each volunteering."
+    },
+    "Helping": {
+        "moral": "Offering help when someone is in need is a moral choice we ought to make, as it embodies the warmth and respect that should exist between people.",
+        "social": "A friend recently shared their experience of helping a homeless person, gaining admiration and recognition, which encourages others to do the same.",
+        "enforce": "Your city has enacted a civic responsibility regulation that obligates residents to provide assistance to homeless individuals when safe, with penalties for repeated inaction.",
+        "economic": "Registering acts of assistance with the community office earns you transportation vouchers or a small cash rebate, providing a tangible benefit for your kindness."
+    },
+    "Donating": {
+        "moral": "Generously donating to support vulnerable groups is a commendable moral act that demonstrates respect for fairness and equal access to education.",
+        "social": "A public donation leaderboard reveals that many of your peers have already contributed. Your name is missing, and you start to feel a sense of urgency to be part of this cause.",
+        "enforce": "Your organization has established a public welfare donation mechanism, requiring all members to participate regularly. Each donation is ¥1000. Those who fail to comply will be subject to punishment.",
+        "economic": "Donations allow you to reduce your taxable income, and every contribution also qualifies for a government matching program, further increasing your impact."
+    },
+    "Cooperation": {
+        "moral": "Providing support when others are struggling is not only a sign of responsibility, but also a prosocial spirit and moral commitment that deserves encouragement.",
+        "social": "The others around you are actively helping those in need and are willing to demonstrate a spirit of collaboration.",
+        "enforce": "Your organization requires members to provide reasonable assistance when others ask for help. Repeated refusals without valid reasons may result in small fines or disqualification from rewards and recognition programs.",
+        "economic": "Supporting others during important tasks is recognized as a positive action and earns you points. These points can be redeemed for household goods or shopping discounts."
+    },
+    "Recycling": {
+        "moral": "Sorting and recycling waste is not just a duty, but a meaningful act of protecting the environment and showing responsibility to future generations.",
+        "social": "Monthly recycling rankings highlight top households and bring them public recognition. Seeing others earn praise makes you reflect on your own contributions.",
+        "enforce": "Improper waste sorting is monitored and fined by the neighborhood committee.",
+        "economic": "Recycling earns you points redeemable for daily goods or discounts—making your eco-friendly actions tangibly rewarding."
+    },
+    "Sharing": {
+        "moral": "Generosity is a virtue. Willingly sharing cherished belongings with others is a moral act that reflects trust and generosity, and it deserves understanding and appreciation.",
+        "social": "People in your network often share items and gain social approval for being generous.",
+        "enforce": "In your residential community, members are expected to participate in item-sharing initiatives. Frequent refusals without valid reasons may result in formal complaints and suspension from other community benefits.",
+        "economic": "The sharing platform offers insurance coverage for damage and even small rewards for participation."
+    }
+}

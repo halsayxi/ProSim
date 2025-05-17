@@ -1,0 +1,10 @@
+{
+    "1": "Please consider the following six scenarios. For each one, rate how likely you would be to engage in the described behavior, using a scale from 1 to 7: 1 = Not at all likely, 7 = Very likely.",
+    "2": "On a scale from 1 to 7, how willing are you to engage in each of the six scenarios above? Please output six integer numbers in order, separated by commas. Only output the six integer numbers.",
+    "3": "On a scale from 1 to 7, how willing are you to engage in each of the six scenarios above? Please output six integer numbers in order first, separated by commas. Then explain your reason using the BDI framework (Belief, Desire, Intention) for each scenario.",
+    "4": "On a scale from 1 to 7, how willing are you to {a}? (1 = Not willing at all, 7 = Extremely willing)",
+    "5": "Given this situation, on a scale from 1 to 7, how willing are you to {a}? Please output one integer between 1 and 7. Only output one integer number.",
+    "6": "Given this situation, on a scale from 1 to 7, how willing are you to {a}? Please output one integer between 1 and 7 first. Then provide your reason using the BDI framework (Belief, Desire, Intention).",
+    "7": "Given this situation, please rate the following two aspects on a scale from 1 to 7 (1 = very low, 7 = very high): 1. Your willingness to {a}. 2. The level of unfairness you feel. Please only output two integer numbers, separated by a space.",
+    "8": "Given this situation, please rate the following two aspects on a scale from 1 to 7 (1 = very low, 7 = very high): 1. Your willingness to {a}. 2. The level of unfairness you feel. Please output two integer numbers first, separated by a space. Then explain your reasoning using the BDI framework (Belief, Desire, Intention)."
+}
