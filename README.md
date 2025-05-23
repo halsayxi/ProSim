@@ -81,5 +81,14 @@ python inequality_info_spread.py
 
 If you use this code or results in your work, please cite the following paper:
 
+@misc{zhou2025simulatingprosocialbehaviorsocial,
+      title={Simulating Prosocial Behavior and Social Contagion in LLM Agents under Institutional Interventions}, 
+      author={Yujia Zhou and Hexi Wang and Qingyao Ai and Zhen Wu and Yiqun Liu},
+      year={2025},
+      eprint={2505.15857},
+      archivePrefix={arXiv},
+      primaryClass={cs.SI},
+      url={https://arxiv.org/abs/2505.15857}, 
+}
 
 
