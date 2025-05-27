@@ -1,6 +1,6 @@
 # Simulating Prosocial Behavior and Social Contagion in LLM Agents under Institutional Interventions
 
-This repository contains the official code and documentation for our paper, titled "[Simulating Prosocial Behavior and Social Contagion in LLM Agents under Institutional Interventions](url)."
+This repository contains the official code and documentation for our paper, titled "[Simulating Prosocial Behavior and Social Contagion in LLM Agents under Institutional Interventions](https://arxiv.org/pdf/2505.15857)."
 
 ![ProSim](ProSim.jpg)
 
