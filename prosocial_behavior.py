@@ -38,7 +38,7 @@ def get_argument_parser():
     parser.add_argument("--model_name", type=str, default="gpt-3.5-turbo-0125")
     parser.add_argument("--use_local_model", action="store_true")
     parser.add_argument("--max_new_tokens", default=50)
-    parser.add_argument("--temperature", type=int, default=1)
+    parser.add_argument("--temperature", type=float, default=1.0)
     parser.add_argument("--num_threads", type=int, default=30)
     parser.add_argument("--output_reason", action="store_true")
     parser.add_argument("--num_agents", type=int, default=104)

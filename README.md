@@ -33,7 +33,7 @@ python prosocial_behavior.py
 | `--model_name`      | `str`    | The name of the model to be used in the experiment.          |
 | `--use_local_model` | `bool`   | If set, the local version of the model will be used.         |
 | `--max_new_tokens`  | `int`    | The maximum number of tokens that can be generated in a single response by the local model. |
-| `--temperature`     | `int`    | Default: 1.                                                  |
+| `--temperature`     | `float`  | Default: 1.0.                                                  |
 | `--num_threads`     | `int`    | The number of threads to use for parallel execution.         |
 | `--output_reason`   | `bool`   | If set, the model will provide reasoning along with the generated response. |
 | `--num_agents`      | `int`    | The number of LLM agents involved in the experiment.         |
