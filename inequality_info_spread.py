@@ -441,6 +441,7 @@ def agent_experiment(
                     start_idx = len(data) - 9
                 else:
                     start_idx = (len(data) // 10) * 10 + 1
+                start_idx = start_idx - 1
                 recent_data = data[start_idx:]
                 filename = f"{cha_num + 1}.json"
                 if os.path.exists(filename):
