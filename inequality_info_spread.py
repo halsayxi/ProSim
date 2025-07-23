@@ -437,7 +437,11 @@ def agent_experiment(
         if round_num % 10 == 0 or round_num == num_rounds:
             print(f"Saving checkpoint at round {round_num}...")
             for cha_num, data in data_store.items():
-                recent_data = data[-10:]
+                if len(data) % 10 == 0:
+                    start_idx = len(data) - 9
+                else:
+                    start_idx = (len(data) // 10) * 10 + 1
+                recent_data = data[start_idx:]
                 filename = f"{cha_num + 1}.json"
                 if os.path.exists(filename):
                     with open(filename, "r", encoding="utf-8") as f:
